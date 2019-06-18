@@ -24,3 +24,17 @@ Use the price history AND two other metrics of your choice to predict the price 
 
 Credits go to [jaungiers](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction). I've merely created a wrapper to get people started.
 
+
+
+##CMD
+
+ conda create --name ai_py2 python=2.7
+ conda activate ai_py2
+
+ pip install keras==2.1.4
+ pip install --upgrade tensorflow
+ pip install matplotlib
+ pip install jupyter
+ LANG=zn jupyter-notebook
+
+
